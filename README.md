@@ -9,7 +9,7 @@
 ## Hello World, Welcome to my profile!
 ### Here something about me:
 
-:octocat: And I'm full-stack developer Jr
+:octocat: I'm full-stack developer Jr
 
 :heavy_check_mark: I’m currently working on AmBev
 
