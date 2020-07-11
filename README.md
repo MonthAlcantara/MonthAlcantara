@@ -6,10 +6,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/monthalcantara)](https://t.me/monthalcantara)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)](https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)
 
-### Hello World, Welcome to my profile!
-
-
-##Here something about me:
+## Hello World, Welcome to my profile!
+### Here something about me:
 
 :octocat: And I'm full-stack developer Jr
 
