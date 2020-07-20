@@ -1,4 +1,4 @@
-# :man_technologist: Montival Junior 
+# Montival Junior :m:
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MonthAlcantara/)](https://github.com/MonthAlcantara/)
@@ -10,17 +10,16 @@
 ![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
 
 ## Hello World!
-### Um pouco sobre mim:
+### Sobre mim:
+:octocat: Desenvolvedor Full Stack Java
 
-:octocat: Desenvolvedor full stack Java
-
-:heartbeat: Atualmente aprendendo mais sobre desenvolvimento Web com Spring Boot, Angular, TDD, DevOps e metodologias ágeis.
+:man_technologist: Atualmente aprendendo mais sobre desenvolvimento Web com Spring Boot, Angular, TDD, DevOps e metodologias ágeis.
 
 ### Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
 - 🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
-- 🎓 Desenvolvedor Full-stack - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
-- 🎓 Desenvolvedor Back-End Java - (Codenation) - 2020
+- 🎓 Desenvolvedor Full Stack - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
+- 🎓 Desenvolvedor Back End Java - (Codenation) - 2020
 
 ## Principais Habilidades
 - [x] Java | Java EE
