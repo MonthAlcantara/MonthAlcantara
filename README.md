@@ -9,21 +9,37 @@
 
 ![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
 
-## Hello World, Welcome to my profile!
-### Here something about me:
+## Hello World!
+### Um pouco sobre mim:
 
-:octocat: I'm full-stack developer Jr
+:octocat: Desenvolvedor full stack Java
 
-:heavy_check_mark: I’m currently working on AmBev
+:heartbeat: Atualmente aprendendo mais sobre desenvolvimento Web com Spring Boot, Angular, TDD, DevOps e metodologias ágeis.
 
-:dart: I’m currently learning Web development
+### Formações
+- 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
+- 🎓 Desenvolvedor Full-stack - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
+- 🎓 Desenvolvedor Back-End Java - (Codenation) - 2020
+
+## Principais Habilidades
+- [x] Java | Java EE
+- [x] Spring | Hibernate | JSF
+- [x] Maven | Gradle
+- [x] Junit | Mockito 
+- [x] Tomcat 
+- [x] Swagger 
+- [x] Restful 
+- [x] Angular | TypeScript | Javascript
+- [x] HTML | CSS
+- [x] Postgres | MySQL | H2 
+- [x] Docker | Git
+- [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
+- [x] Scrum
 
 
-:heart: In love with Java, always
-
-:purple_heart: I'm love Javascript/Typescript too
-
-:heartbeat: I like to build API's Rest with Angular and Spring Boot
+### Certificação
+- [SCRUM Foundation professional Certificate (SFPC) - CertiProf
+](https://cmkr.co/pdf/downloads/?certificate_id=45000&sid=44542106&nrg_id=657511&test_id=1112700&aid=4238890&utype=SD&cert_token=22818f6a07396820d4cf7456d8753448&tprtoken=TAXC)
 
 
 
