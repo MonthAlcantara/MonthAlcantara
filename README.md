@@ -34,7 +34,7 @@
 - [x] Postgres | MySQL | H2 
 - [x] Docker | Git
 - [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
-- [x] Scrum
+- [x] Scrum | DevOps
 
 
 ### Certificação
