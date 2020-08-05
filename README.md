@@ -42,6 +42,8 @@
 ](https://cmkr.co/pdf/downloads/?certificate_id=45000&sid=44542106&nrg_id=657511&test_id=1112700&aid=4238890&utype=SD&cert_token=22818f6a07396820d4cf7456d8753448&tprtoken=TAXC)
 
 
+### Contribuições para a Comunidade
+- [Post Blog Java Bahia - Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
 
 
 
