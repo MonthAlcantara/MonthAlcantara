@@ -38,7 +38,7 @@
 
 
 ### Certificação
-- [SCRUM Foundation professional Certificate (SFPC) - CertiProf
+- [SCRUM Foundation Professional Certificate (SFPC) - CertiProf
 ](https://cmkr.co/pdf/downloads/?certificate_id=45000&sid=44542106&nrg_id=657511&test_id=1112700&aid=4238890&utype=SD&cert_token=22818f6a07396820d4cf7456d8753448&tprtoken=TAXC)
 - DevOps Essentials Professional Certificate (DEPC) - CertiProf 
 
