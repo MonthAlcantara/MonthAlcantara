@@ -11,7 +11,7 @@
 
 ## Hello World!
 ### Sobre mim:
-:octocat: Desenvolvedor Full Stack Java
+:octocat: Desenvolvedor Java | Spring | Angular
 
 :man_technologist: Atualmente aprendendo mais sobre desenvolvimento Web com Spring Boot, Angular, TDD, DevOps e metodologias ágeis.
 
@@ -44,6 +44,7 @@
 
 ### Contribuições para a Comunidade
 - [Post Blog Java Bahia - Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
+- [Post Blog Java Bahia - Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
 
 
 
