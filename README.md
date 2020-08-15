@@ -11,7 +11,7 @@
 
 ## Hello World!
 ### Sobre mim:
-:octocat: Desenvolvedor Java | Spring | Angular
+:octocat: Estudante de Desenvolvimento Web Java | Spring | Angular
 
 :man_technologist: Atualmente aprendendo mais sobre desenvolvimento Web com Spring Boot, Angular, TDD, DevOps e metodologias ágeis.
 
@@ -23,7 +23,7 @@
 
 ## Principais Habilidades
 - [x] Java | Java EE
-- [x] Spring | Hibernate | JSF
+- [x] Spring | Hibernate 
 - [x] Maven | Gradle
 - [x] Junit | Mockito 
 - [x] Tomcat 
@@ -42,9 +42,9 @@
 ](https://cmkr.co/pdf/downloads/?certificate_id=45000&sid=44542106&nrg_id=657511&test_id=1112700&aid=4238890&utype=SD&cert_token=22818f6a07396820d4cf7456d8753448&tprtoken=TAXC)
 - DevOps Essentials Professional Certificate (DEPC) - CertiProf 
 
-### Contribuições para a Comunidade
-- [Post Blog Java Bahia - Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
-- [Post Blog Java Bahia - Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
+### Postagens no Blog Java Bahia
+- [Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
+- [Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
 
 
 
