@@ -23,15 +23,15 @@
 
 ## Principais Habilidades
 - [x] Java | Java EE
-- [x] Spring | Hibernate 
+- [x] Spring Framework | Hibernate 
 - [x] Maven | Gradle
 - [x] Junit | Mockito 
 - [x] Tomcat 
 - [x] Swagger 
-- [x] Restful 
+- [x] Travis CI | Jasper Report
 - [x] Angular | TypeScript | Javascript
 - [x] HTML | CSS
-- [x] Postgres | MySQL | H2 
+- [x] Postgres | MySQL | H2 | Redis
 - [x] Docker | Git
 - [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
 - [x] Scrum | DevOps
