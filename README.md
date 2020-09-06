@@ -11,9 +11,7 @@
 
 ## Hello World!
 ### Sobre mim:
-:octocat: Estudante de Desenvolvimento Web Java | Spring | Angular
-
-:man_technologist: Atualmente aprendendo mais sobre desenvolvimento Web com Spring Boot, Angular, TDD, DevOps e metodologias ágeis.
+:man_technologist: Desenvolvedor Web Java | Spring | Angular
 
 ### Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
@@ -21,7 +19,7 @@
 - 🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
 
 
-## Principais Habilidades
+## :octocat:  Principais Habilidades
 - [x] Java | Java EE
 - [x] Spring Framework | Hibernate 
 - [x] Maven | Gradle
