@@ -10,10 +10,9 @@
 ![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
 
 ## Hello World!
-### Sobre mim:
-:man_technologist: Desenvolvedor Web Java | Spring | Angular
+:man_technologist: Um eterno estudante apaixonado por desenvolvimento Web Java | Spring | Angular
 
-### Formações
+## Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
 - 🎓 Desenvolvedor Back End Java - (Codenation) - 2020
 - 🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
@@ -35,28 +34,13 @@
 - [x] Scrum | DevOps
 
 
-### Certificações
+## Certificações
 - [SCRUM Foundation Professional Certificate (SFPC) - CertiProf
 ](https://cmkr.co/pdf/downloads/?certificate_id=45000&sid=44542106&nrg_id=657511&test_id=1112700&aid=4238890&utype=SD&cert_token=22818f6a07396820d4cf7456d8753448&tprtoken=TAXC)
 - DevOps Essentials Professional Certificate (DEPC) - CertiProf 
 
-### Postagens e Artigos
+
+## Postagens e Artigos
 - [Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
 - [Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
 
-
-
-<!--
-**MonthAlcantara/MonthAlcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
