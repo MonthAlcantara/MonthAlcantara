@@ -17,9 +17,9 @@
 
 ### Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
-- 🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
-- 🎓 Desenvolvedor Full Stack - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
 - 🎓 Desenvolvedor Back End Java - (Codenation) - 2020
+- 🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
+
 
 ## Principais Habilidades
 - [x] Java | Java EE
