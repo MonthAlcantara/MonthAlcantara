@@ -12,6 +12,9 @@
 ## Hello World!
 :man_technologist: Um eterno estudante apaixonado por desenvolvimento Web Java | Spring | Angular
 
+## Experiência Profissional
+- Analista de Sistemas Java - @ZupInnovation - Atual
+
 ## Formações
 - 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
 - 🎓 Desenvolvedor Back End Java - (Codenation) - 2020
