@@ -10,7 +10,7 @@
 ![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
 
 ## Hello World!
-:man_technologist: Um eterno estudante apaixonado por desenvolvimento Web Java | Spring | Angular
+:man_technologist: Apaixonado por tecnologia e desenvolvimento Web Java | Kotlin
 
 ## Experiência Profissional
 - Analista de Sistemas Java - @ZupInnovation - Atual
@@ -22,17 +22,15 @@
 
 
 ## :octocat:  Principais Habilidades
-- [x] Java | Java EE
-- [x] Spring Framework | Hibernate 
+- [x] Java | Kotlin
+- [x] Spring Framework | Java EE | Micronaut | Hibernate
 - [x] Maven | Gradle
 - [x] Junit | Mockito 
 - [x] Tomcat 
 - [x] Swagger 
-- [x] Travis CI | Jasper Report
-- [x] Angular | TypeScript | Javascript
 - [x] HTML | CSS
 - [x] Postgres | MySQL | H2 | Redis
-- [x] Docker | Git
+- [x] Docker | Git Flow
 - [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
 - [x] Scrum | DevOps
 
