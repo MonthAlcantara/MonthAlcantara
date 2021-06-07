@@ -42,6 +42,7 @@
 
 
 ## Postagens e Artigos
+- [Spring Cloud e Localstack](https://montivaljunior.medium.com/utilizando-spring-cloud-com-aws-sqs-e-localstack-d5bf66ea3151)
 - [Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
 - [Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
 
