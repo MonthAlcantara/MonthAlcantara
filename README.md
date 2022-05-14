@@ -13,26 +13,26 @@
 :man_technologist: Apaixonado por tecnologia e desenvolvimento Web Java | Kotlin
 
 ## Experiência Profissional
-- Analista de Sistemas Java - @ZupInnovation - Atual
+- Java Software Engineer - @ZupInnovation/@Itau - Atual
 
 ## Formações
-- 🎓 Graduando em Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2021
+- 🎓 Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2022
 - 🎓 Desenvolvedor Back End Java - (Codenation) - 2020
 - 🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
 
 
 ## :octocat:  Principais Habilidades
 - [x] Java | Kotlin
-- [x] Spring Framework | Java EE | Micronaut | Hibernate
+- [x] Spring Framework | Hibernate | Junit | Mockito 
+- [x] Kafka | RabbitMq 
+- [x] AWS
 - [x] Maven | Gradle
-- [x] Junit | Mockito 
-- [x] Tomcat 
+- [x] DevOps
 - [x] Swagger 
-- [x] HTML | CSS
 - [x] Postgres | MySQL | H2 | Redis
 - [x] Docker | Git Flow
 - [x] Eclipse | IntelliJ IDEA | VSCode | Postman 
-- [x] Scrum | DevOps
+- [x] Scrum | Kanbam
 
 
 ## Certificações
