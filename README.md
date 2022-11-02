@@ -1,7 +1,12 @@
 
-![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
+# Montival Junior :man_technologist: 
 
-# Montival Junior :man_technologist: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montivaljunior/)](https://www.linkedin.com/in/montivaljunior/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MonthAlcantara/)](https://monthalcantara.github.io/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/monthalcantara)](https://t.me/monthalcantara) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)](https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montivaljunior/)](https://www.linkedin.com/in/montivaljunior/) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MonthAlcantara/)](https://monthalcantara.github.io/) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/monthalcantara)](https://t.me/monthalcantara) 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)](https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)
+
+![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
 
   <div>
   <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
@@ -42,7 +47,7 @@ Atualmente tenho me especializado no desenvolvimento de microsserviços utilizan
 - [Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
 
 ## Curiosidade  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonthAlcantara&theme=city_lights&hide=PlpgSQL,jupyter%20notebook,html,css)s
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonthAlcantara&theme=city_lights&hide=PlpgSQL,jupyter%20notebook,html,css)
  
 ![Month github stats](https://github-readme-stats.vercel.app/api?username=MonthAlcantara&show_icons=true&theme=city_lights)   
   
