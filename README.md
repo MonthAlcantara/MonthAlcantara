@@ -46,7 +46,7 @@ Atualmente tenho me especializado no desenvolvimento de microsserviços utilizan
 - [Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
 - [Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
 
-## Curiosidade  
+## Curiosidades  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonthAlcantara&theme=city_lights&hide=PlpgSQL,jupyter%20notebook,html,css)
  
 ![Month github stats](https://github-readme-stats.vercel.app/api?username=MonthAlcantara&show_icons=true&theme=city_lights)   
