@@ -52,14 +52,6 @@
 
 ---
 
-## 🏆 Highlights
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonthAlcantara&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonthAlcantara&show_icons=true&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=MonthAlcantara&theme=onedark&column=6&margin-w=10&margin-h=15)
-
----
-
 ## 🤝 Let's Connect
 
 Whether it's to collaborate, share ideas, or talk about technology, feel free to reach out. I'm always open to meaningful conversations and exciting opportunities!
