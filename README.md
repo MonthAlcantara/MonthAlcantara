@@ -1,57 +1,67 @@
+# 👋 Hi, I'm Montival Junior
 
-# Montival Junior :man_technologist: 
+**Senior Software Engineer | Tech Lead | Backend Specialist (Java | Kotlin | Go)**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/montivaljunior/)](https://www.linkedin.com/in/montivaljunior/) 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MonthAlcantara/)](https://monthalcantara.github.io/) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/monthalcantara)](https://t.me/monthalcantara) 
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)](https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/montivaljunior/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MonthAlcantara)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5571993410330&text=Olá!)
 
-![Imagem_capa](https://github.com/MonthAlcantara/MonthAlcantara/blob/master/github.jpg)
+---
 
-  <div>
-  <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
-  <img src="https://img.shields.io/badge/Backend-Kotlin-informational?style=flat&logo=kotlin&color=05122A" />
-  <img src="https://img.shields.io/badge/Cloud&nbsp;Public-Amazon&nbsp;AWS-informational?style=flat&logo=Amazon&color=05122A" />
-  </div>
-  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+🔧 I'm a Senior Software Engineer with over 5 years of experience, currently leading backend squads at **Itaú Unibanco**, the largest bank in Latin America. I build scalable, secure, and high-performance systems using **Java, Kotlin, and Go**.
 
-## Hello World! <div>
+💡 Passionate about delivering real business value, I bridge the gap between product vision and engineering, working closely with PMs and designers. My leadership is grounded in autonomy, trust, and continuous improvement.
 
-Apaixonado por tecnologia e desenvolvimento Web Java | Kotlin. Formado inicialmente em Automação Industrial, atuei na área por 10 anos, migrando em definitivo para área tech no ano de 2020.
+---
 
-Atualmente tenho me especializado no desenvolvimento de microsserviços utilizando conceitos de programação reativa, comunicação assincrona com mensageria, provedores Cloud, testes unitários automatizados e monitoramento de aplicações.
+## 🚀 What I Work With
 
-## Formações
-🎓 Análise e desenvolvimento de Sistemas - (UNIJORGE - Universidade Jorge Amado) - 2022 <br />
-🎓 Desenvolvedor Back End Java - (Codenation) - 2020 <br />
-🎓 Profissional DevOps - (IGTI - INSTITUTO DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO) - 2020
+### 💻 Languages & Frameworks
+- Java, Kotlin, Go (Golang)
+- Spring Boot, Micronaut, Gin
 
-## Certificações
-- [SCRUM Foundation Professional Certificate (SFPC) - CertiProf
-](https://cmkr.co/pdf/downloads/?certificate_id=45000&sid=44542106&nrg_id=657511&test_id=1112700&aid=4238890&utype=SD&cert_token=22818f6a07396820d4cf7456d8753448&tprtoken=TAXC)
-- DevOps Essentials Professional Certificate (DEPC) - CertiProf 
+### ☁️ Cloud & DevOps
+- AWS (EKS, Lambda, S3, API Gateway, Athena)
+- Terraform, GitHub Actions, ArgoCD
+- Docker, Kubernetes
 
+### 🧪 Testing & Observability
+- Unit, integration, and contract testing
+- Grafana, Prometheus, Splunk, Alertmanager
 
-## Postagens e Artigos
-- [Spring Cloud e Localstack](https://montivaljunior.medium.com/utilizando-spring-cloud-com-aws-sqs-e-localstack-d5bf66ea3151)
-- [Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
-- [Design Patterns - DTO](https://javabahia.github.io/falando-sobre-dto/)
+### 🛰️ Architecture & Delivery
+- Microservices & event-driven architecture with Kafka
+- Agile methodologies (Scrum, Kanban)
+- DevOps, FinOps & cloud governance
 
-## Curiosidades  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonthAlcantara&theme=city_lights&hide=PlpgSQL,jupyter%20notebook,html,css)
- 
-![Month github stats](https://github-readme-stats.vercel.app/api?username=MonthAlcantara&show_icons=true&theme=city_lights)   
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=MonthAlcantara&theme=nord&column=6&row=1&margin-w=15&margin-h=15)
+---
 
+## 🔭 Current Focus
 
+- Leading tech modernization initiatives at Itaú
+- Learning more about **intelligent agents and AI-powered customer service**
+- Sharing knowledge through articles and open-source contributions
 
+---
+
+## 📚 Featured Articles
+
+- [Spring Cloud with AWS SQS & Localstack](https://montivaljunior.medium.com/utilizando-spring-cloud-com-aws-sqs-e-localstack-d5bf66ea3151)
+- [JSR-303 Bean Validation](https://javabahia.github.io//jsr-303-bean-validation-algumas-anotacoes/)
+- [Design Patterns: DTO](https://javabahia.github.io/falando-sobre-dto/)
+
+---
+
+## 🏆 Highlights
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonthAlcantara&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonthAlcantara&show_icons=true&theme=tokyonight)
+![Trophy](https://github-profile-trophy.vercel.app/?username=MonthAlcantara&theme=onedark&column=6&margin-w=10&margin-h=15)
+
+---
+
+## 🤝 Let's Connect
+
+Whether it's to collaborate, share ideas, or talk about technology, feel free to reach out. I'm always open to meaningful conversations and exciting opportunities!
+
+> _“Great teams build great products. Let’s make something amazing together.”_
